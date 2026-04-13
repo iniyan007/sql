@@ -11,3 +11,7 @@
 ## Task-3 Completed ✅
 
 - Simple Aggregation and Grouping
+
+## Task-4 Completed ✅
+
+- Multi-Table JOINs
