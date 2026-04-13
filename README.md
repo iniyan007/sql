@@ -7,3 +7,7 @@
 ## Task-2 Completed ✅
 
 - Basic Filtering and Sorting
+
+## Task-3 Completed ✅
+
+- Simple Aggregation and Grouping
