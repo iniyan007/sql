@@ -27,3 +27,7 @@
 ## Task-7 Completed ✅
 
 - Window Functions and Ranking
+
+## Task-8 Completed ✅
+
+- Common Table Expressions (CTEs) and Recursive Queries
