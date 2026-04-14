@@ -19,3 +19,11 @@
 ## Task-5 Completed ✅
 
 - Subqueries and Nested Queries
+
+## Task-6 Completed ✅
+
+- Date and Time Functions
+
+## Task-7 Completed ✅
+
+- Window Functions and Ranking
