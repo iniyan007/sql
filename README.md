@@ -31,3 +31,7 @@
 ## Task-8 Completed ✅
 
 - Common Table Expressions (CTEs) and Recursive Queries
+
+## Task-9 Completed ✅
+
+- Stored Procedures and User-Defined Functions
